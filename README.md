@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeoRamosKees
 - 👀 I’m interested in taking new challenges
-- 🌱 I’m currently learning React
+- 🌱 I’m a Full-Stack developer
 - 📫 How to reach me teoramites@gmail.com
 - Linkedin: https://www.linkedin.com/in/teo-ramos-kees-245412224/
 
