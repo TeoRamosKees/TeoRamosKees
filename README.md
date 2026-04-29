@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TeoRamosKees
-- 👀 I’m interested in taking new challenges
-- 🌱 I’m a Full-Stack developer
+- 🌱 Software Engineer
 - 📫 How to reach me teoramites@gmail.com
 - Linkedin: https://www.linkedin.com/in/teo-ramos-kees/
 
