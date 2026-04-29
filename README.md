@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TeoRamosKees
-- 🌱 Software Engineer
-- 📫 How to reach me teoramites@gmail.com
+- Hi, I’m @TeoRamosKees
+- I'm a Software Engineer graduate from Argentina
+- Feel free to reach me through: teoramites@gmail.com | +5492234553830 | https://teoramos.vercel.app/
 - Linkedin: https://www.linkedin.com/in/teo-ramos-kees/
 
 <!---
